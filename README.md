@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! I am Edyta 👋
+
+- 🔭 I’m currently working on Pokemons App https://github.com/Agnieszka26/pokemon_v2 This is my collaborative project with my friend Agnieszka 😀
+  ...but in the future, I want to create my own genealogy blog because I am freaking out about genealogy too. 🌳
+
+ - 🌱 I’m currently learning React (most of the time).
+ - 😎 I have experience in React mobile development as a junior developer.
+
+- 📫 Contact me: ulanowicz.edyta@gmail.com
 
 <!--
 **UlEdy/UlEdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
